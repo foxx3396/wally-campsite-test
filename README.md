@@ -14,3 +14,5 @@ GitHub Pages에서 실행되는 브라우저 테스트입니다. 설치 없이 �
 `node test.cjs`로 로직 검사를 실행할 수 있습니다. 현재 정의서는 `V2-정의서.md`이며 `프로그램정의서.md`는 초기 버전 기록입니다.
 
 원화 출처: https://forocoches.com/foro/showthread.php?t=3846533 . 원저작자 Martin Handford. 해당 이미지의 재사용 라이선스를 제공하는 저장소가 아닙니다.
+
+최신 플레이 버전: [006 캠핑장 · 공유 캐릭터 장면](https://foxx3396.github.io/wally-campsite-test/layered/). 기능 및 검증은 [레이어 정의서](layered/README.md) 참조.
